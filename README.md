@@ -81,7 +81,7 @@ Display results
 
 ``` r
 ggplot(data, aes(x = rotationAngle, y = RT)) + 
-  geom_boxplot() + labs(y = 'Rotation angle in degrees', x = 'Reaction time in msec', title = 'Example data')
+  geom_boxplot() + labs(x = 'Rotation angle in degrees', y = 'Reaction time in msec', title = 'Example data')
 ```
 
 ![](README_files/figure-markdown_github/unnamed-chunk-2-1.png)
