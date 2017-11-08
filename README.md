@@ -118,7 +118,8 @@ correctRejections
 References
 ==========
 
-Will be added soon.
+Shepard, R. N., & Metzler, J. (1971). Mental Rotation of Three-Dimensional Objects. Science, 171(3972), 701–703. https://doi.org/10.1126/science.171.3972.701
+Vanderplas, J. M., & Garvin, E. A. (1959). The association value of random shapes. Journal of Experimental Psychology, 57(3), 147–154. https://doi.org/10.1037/h0048723
 
 License
 =======
