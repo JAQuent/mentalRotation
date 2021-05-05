@@ -114,6 +114,12 @@ correctRejections
 ```
 
     ## [1] 0.4625
+    
+Articles that use this task
+===========================
+Leeuwis N, Paas A andAlimardani M (2021) Vividness ofVisual Imagery and Personality ImpactMotor-Imagery Brain ComputerInterfaces.Front. Hum. Neurosci. 15:634748.doi: 10.3389/fnhum.2021.634748
+
+Leeuwis, N., and Alimardani, M. (2020). High aptitude motor imagery BCI users have better visuospatial memory. arXiv [Preprint]. arXiv:2010.02026.
 
 References
 ==========
